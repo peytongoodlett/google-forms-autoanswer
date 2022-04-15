@@ -1,8 +1,8 @@
 import mechanize, sys
 
 
-link = 'https://docs.google.com/forms/d/1a6UqltG8Rg66MCRynzVuWs-qQhoNFB_HVJ1aTyVsUrI/viewform'
-rsp = ['x', 'x']
+link = 'https://docs.google.com/forms/d/e/1FAIpQLSfomL63-Gh5sQma6EhAo2Ke05ZGdxTE8qMTNqvD1xdGW_MrqQ/viewform'
+rsp = ['Option 1']
 
 
 def vota(i):
